@@ -8,7 +8,7 @@ if ((!defined('ABSPATH'))) {
  * The file that defines the core plugin class
  *
  * @author Mahesh Thorat
- * @link https://maheshthorat.web.app
+ * @link https://github.com/dd2005sree/Portfolio/blob/main/index.html
  * @version 0.1
  * @package PagePulse
  */
