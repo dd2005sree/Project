@@ -7,7 +7,7 @@ if ((!defined('ABSPATH'))) {
  * Class PagePulse
  * The file that defines the core plugin class
  *
- * @author Mahesh Thorat
+ * @author devisree
  * @link https://github.com/dd2005sree/Portfolio/blob/main/index.html
  * @version 0.1
  * @package PagePulse
